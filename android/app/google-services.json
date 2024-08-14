@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267677886314",
+    "project_id": "zella-online-marketplace",
+    "storage_bucket": "zella-online-marketplace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267677886314:android:e8c419f2586af8a7846713",
+        "android_client_info": {
+          "package_name": "com.zella.customer1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267677886314-3d6192t7rbpk9ugtndtkdj0hq38blor7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKC8in54-Swilhh0m5Ma8s-3709-TaCOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267677886314-3d6192t7rbpk9ugtndtkdj0hq38blor7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
