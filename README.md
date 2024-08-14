@@ -1,6 +1,6 @@
-# active_ecommerce_flutter
+# Zella Marketplace
 
-This is the flutter mobile application for active ecommerce cms
+This is the flutter mobile application for Zella Marketplace
 
 ## Getting Started
 
